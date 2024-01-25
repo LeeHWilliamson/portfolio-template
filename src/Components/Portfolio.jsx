@@ -51,7 +51,7 @@ const projectList = [
   {
     title: "Magic 8 Ball",
     description:
-      "App that will predict your future. Built for Programming Fundamentals I",
+     "App that will predict your future. Built for Programming Fundamentals I",
     url: "Will post link asap",
   },
 ];
