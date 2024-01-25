@@ -16,7 +16,7 @@ import "./styles.css";
 
 /**
  * This object represents your information. The project is set so that you
- * only need to update these here, and values are passed a properties to the
+ * only need to update these here, and values are passed as properties to the
  * components that need that information.
  *
  * Update the values below with your information.
@@ -24,15 +24,15 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  name: "Lee Williamson",
+  title: "Computer Science Student",
+  email: "LeeHarrisWilliamson@gmail.com",
+  gitHub: "LeeHWilliamson",
+  instagram: "",
+  linkedIn: "",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
